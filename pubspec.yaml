@@ -17,6 +17,8 @@ dependencies:
   google_fonts: ^6.1.0
   sizer: ^2.0.15
   timeline_tile: ^2.0.0
+  video_player: ^2.8.1
+  chewie: ^1.7.4
 
 dev_dependencies:
   flutter_test:
@@ -37,3 +39,4 @@ flutter:
     - assets/images/commande.png
     - assets/images/medoc.png
     - assets/icons/
+    - assets/videos/video.mp4
