@@ -13,6 +13,10 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
+  gap: ^3.0.1
+  google_fonts: ^6.1.0
+  sizer: ^2.0.15
+  timeline_tile: ^2.0.0
 
 dev_dependencies:
   flutter_test:
@@ -23,3 +27,13 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/rond.png
+    - assets/images/min.png
+    - assets/images/fond1.jpg
+    - assets/images/fond2.jpg
+    - assets/images/commande.png
+    - assets/images/medoc.png
+    - assets/icons/
